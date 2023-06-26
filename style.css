@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.imagecontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px dashed rgb(31, 30, 30);
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+    bottom: 5vh;
+}
+#btn-width{
+    position: relative;
+    left: 25vh;
+}
